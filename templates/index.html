@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+ <head>
+   <title>MY FAVORITE SHOWS</title>
+   <link rel="stylesheet" type="text/css" href="static/style.css"/>
+ </head>
+ <body class = "bodyp">
+<h1>Chris's Favorite TV shows:</h1>
+<ul class="tvshows">
+  
+     {%for i in range(0, len)%}
+     <li {% if tv_shows[i] == 'Code Geass' %}
+     class="favorite" {% endif %}>
+     {{tv_shows[i]}}
+    </li>
+
+  {% endfor %}
+</ul>
+</body>
+</html>

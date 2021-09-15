@@ -1,0 +1,26 @@
+[2021-09-13 00:54:31.783] [exthost] [info] extension host started
+[2021-09-13 00:54:31.793] [exthost] [info] Lock '/home/chrispro-1/.vscode-server/data/User/workspaceStorage/09b6edbee1fef576dbe5572bfa393f8f/vscode.lock': Lock acquired.
+[2021-09-13 00:54:31.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-13 00:54:31.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/debug-auto-launch/dist/extension
+[2021-09-13 00:54:31.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-13 00:54:31.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/git/dist/main
+[2021-09-13 00:54:32.088] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-13 00:54:32.088] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/github/dist/extension.js
+[2021-09-13 00:54:32.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-13 00:54:32.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-13 00:54:32.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-13 00:54:32.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-13 00:54:32.226] [exthost] [info] eager extensions activated
+[2021-09-13 00:54:32.242] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-13 00:54:32.242] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-13 00:54:47.925] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-13 00:54:47.925] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension
+[2021-09-13 00:54:50.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-09-13 00:54:50.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-09-13 00:55:21.898] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-09-13 00:55:21.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-09-13 00:56:11.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-09-13 00:56:11.127] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/debug-server-ready/dist/extension
+[2021-09-13 00:57:17.715] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-09-13 00:57:17.717] [exthost] [info] Lock '/home/chrispro-1/.vscode-server/data/User/workspaceStorage/09b6edbee1fef576dbe5572bfa393f8f/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-13 00:57:18.755] [exthost] [info] exiting with code 0

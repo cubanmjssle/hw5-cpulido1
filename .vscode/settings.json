@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.analysis.extraPaths": [
+        "./.local/lib/python3.8/site-packages/flask"
+    ]
+}

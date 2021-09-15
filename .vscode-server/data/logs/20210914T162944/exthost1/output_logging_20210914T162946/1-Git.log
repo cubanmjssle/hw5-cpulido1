@@ -1,0 +1,33 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/chrispro-1/lect6-demo-heroku
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chrispro-1/lect6-demo-heroku/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app.py
+> git ls-files --stage -- /home/chrispro-1/lect6-demo-heroku/app.py
+> git cat-file -s aa5f5d3c632d3c0c499dcdedefe5b2e274615997
+> git show --textconv :nyt.py
+> git ls-files --stage -- /home/chrispro-1/lect6-demo-heroku/nyt.py
+> git cat-file -s f84c58881c95d86cfb0cd0e9fe3a7f8f4a7d2fbb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/chrispro-1/lect6-demo-heroku/README.md
+> git cat-file -s 11d099cf28e3a7127783e27dd006255d80510c99
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/chrispro-1/lect6-demo-heroku/.gitignore
+> git cat-file -s dc12cb74414173f11b98300977ba7ab7683f6c8c
+> git show --textconv :README.md
+> git ls-files --stage -- /home/chrispro-1/lect6-demo-heroku/README.md
+> git cat-file -s 11d099cf28e3a7127783e27dd006255d80510c99
+> git show --textconv :nyt.py
+> git ls-files --stage -- /home/chrispro-1/lect6-demo-heroku/nyt.py
+> git cat-file -s f84c58881c95d86cfb0cd0e9fe3a7f8f4a7d2fbb

@@ -1,0 +1,64 @@
+[2021-09-12 23:37:03.866] [exthost] [info] extension host started
+[2021-09-12 23:37:03.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-12 23:37:03.951] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/debug-auto-launch/dist/extension
+[2021-09-12 23:37:03.957] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-12 23:37:03.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/git/dist/main
+[2021-09-12 23:37:04.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-12 23:37:04.151] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/github/dist/extension.js
+[2021-09-12 23:37:04.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-12 23:37:04.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-12 23:37:04.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-12 23:37:04.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-12 23:37:04.230] [exthost] [info] eager extensions activated
+[2021-09-12 23:37:04.236] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-12 23:37:04.237] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-12 23:37:21.065] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-12 23:37:21.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension
+[2021-09-12 23:37:21.579] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-12 23:37:21.579] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension
+[2021-09-12 23:37:23.046] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-12 23:37:23.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1/dist/extension.bundle.js
+[2021-09-12 23:37:25.450] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 23:37:25.450] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117593
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 23:37:25.455] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 23:37:25.455] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:155096
+	at async U.provideDocumentSemanticTokens (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:174108)
+[2021-09-12 23:37:25.461] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 23:37:25.461] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:156174
+	at async N.provideDocumentRangeSemanticTokens (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:176218)
+[2021-09-12 23:37:45.766] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-09-12 23:37:45.766] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-09-12 23:38:08.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-09-12 23:38:08.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/debug-server-ready/dist/extension
+[2021-09-12 23:38:09.590] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 23:38:09.590] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:112947
+	at async g.provideHover (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:166317)
+[2021-09-12 23:38:21.491] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 23:38:21.491] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:112947
+	at async g.provideHover (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:166317)
+[2021-09-12 23:46:39.222] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 23:46:39.222] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:120466
+	at async S.provideCodeActions (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:168622)
+[2021-09-13 00:45:20.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-09-13 00:45:20.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-09-13 00:57:24.593] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-09-13 00:57:25.633] [exthost] [info] exiting with code 0

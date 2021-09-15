@@ -1,0 +1,31 @@
+[2021-09-12 21:28:42.533] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-12 21:28:42.533] [remoteagent] [info] Extension host agent started.
+[2021-09-12 21:28:43.285] [remoteagent] [info] [127.0.0.1][45be8a75][ManagementConnection] New connection established.
+[2021-09-12 21:28:43.293] [remoteagent] [info] snyk-security.snyk-vulnerability-scanner 1.1.1 Running post uninstall script
+[2021-09-12 21:28:43.400] [remoteagent] [info] [127.0.0.1][8a6f00be][ExtensionHostConnection] New connection established.
+[2021-09-12 21:28:43.416] [remoteagent] [info] [127.0.0.1][8a6f00be][ExtensionHostConnection] <1129> Launched Extension Host Process.
+[2021-09-12 21:28:44.217] [remoteagent] [error] snyk-security.snyk-vulnerability-scanner 1.1.1 post-uninstall (node:1122) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, open '/home/chrispro-1/.config/Code/User/settings.json'
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1122) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:1122) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+[2021-09-12 21:28:44.218] [remoteagent] [info] snyk-security.snyk-vulnerability-scanner 1.1.1 Finished running post uninstall script
+[2021-09-12 21:28:45.586] [remoteagent] [info] Deleted from disk snyk-security.snyk-vulnerability-scanner /home/chrispro-1/.vscode-server/extensions/snyk-security.snyk-vulnerability-scanner-1.1.1
+[2021-09-12 21:28:50.069] [remoteagent] [info] [127.0.0.1][45be8a75][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-12 21:28:50.937] [remoteagent] [info] [127.0.0.1][5195d199][ManagementConnection] New connection established.
+[2021-09-12 21:28:51.016] [remoteagent] [info] [127.0.0.1][0e153c3b][ExtensionHostConnection] New connection established.
+[2021-09-12 21:28:51.028] [remoteagent] [info] [127.0.0.1][0e153c3b][ExtensionHostConnection] <1166> Launched Extension Host Process.
+[2021-09-12 21:28:51.112] [remoteagent] [info] [127.0.0.1][8a6f00be][ExtensionHostConnection] <1129> Extension Host Process exited with code: 0, signal: null.
+[2021-09-12 22:04:25.754] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-12 22:32:30.961] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-12 22:32:46.517] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-12 22:33:08.814] [remoteagent] [error] No ptyHost heartbeat after 12 seconds

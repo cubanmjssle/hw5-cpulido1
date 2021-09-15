@@ -1,0 +1,84 @@
+[2021-09-10 00:02:35.959] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-10 00:02:35.959] [remoteagent] [info] Extension host agent started.
+[2021-09-10 00:02:36.470] [remoteagent] [info] [127.0.0.1][b621e6df][ManagementConnection] New connection established.
+[2021-09-10 00:02:36.484] [remoteagent] [info] [127.0.0.1][6bab54df][ExtensionHostConnection] New connection established.
+[2021-09-10 00:02:36.488] [remoteagent] [info] [127.0.0.1][6bab54df][ExtensionHostConnection] <154970> Launched Extension Host Process.
+[2021-09-10 00:02:39.076] [remoteagent] [info] Installing extension: ms-python.python
+[2021-09-10 00:02:40.727] [remoteagent] [info] Downloaded extension: ms-python.python /home/chrispro-1/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.9.1218897484
+[2021-09-10 00:02:51.973] [remoteagent] [info] Extracted extension to /home/chrispro-1/.vscode-server/extensions/.e1a1c7ca-e9e6-4b02-8b90-70feb80dcb1e: ms-python.python
+[2021-09-10 00:02:52.056] [remoteagent] [info] Renamed to /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484
+[2021-09-10 00:02:52.072] [remoteagent] [info] Extracting completed. ms-python.python
+[2021-09-10 00:02:52.111] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2021-09-10 00:14:27.276] [remoteagent] [info] [127.0.0.1][b621e6df][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-10 00:14:28.301] [remoteagent] [info] [127.0.0.1][a8709e76][ManagementConnection] New connection established.
+[2021-09-10 00:14:28.354] [remoteagent] [info] [127.0.0.1][6bab54df][ExtensionHostConnection] <154970> Extension Host Process exited with code: 0, signal: null.
+[2021-09-10 00:14:28.354] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-10 00:14:28.378] [remoteagent] [info] [127.0.0.1][181786dd][ExtensionHostConnection] New connection established.
+[2021-09-10 00:14:28.390] [remoteagent] [info] [127.0.0.1][181786dd][ExtensionHostConnection] <156119> Launched Extension Host Process.
+[2021-09-10 00:19:28.355] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-09-10 00:19:39.269] [remoteagent] [info] [127.0.0.1][a8709e76][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-10 00:19:40.316] [remoteagent] [info] [127.0.0.1][181786dd][ExtensionHostConnection] <156119> Extension Host Process exited with code: 0, signal: null.
+[2021-09-10 00:19:40.316] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-10 00:22:50.248] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-09-10 00:22:50.248] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-10 00:22:50.446] [remoteagent] [info] [127.0.0.1][a9815d40][ManagementConnection] New connection established.
+[2021-09-10 00:22:50.540] [remoteagent] [info] [127.0.0.1][0cf140a2][ExtensionHostConnection] New connection established.
+[2021-09-10 00:22:50.544] [remoteagent] [info] [127.0.0.1][0cf140a2][ExtensionHostConnection] <157637> Launched Extension Host Process.
+[2021-09-10 00:24:06.679] [remoteagent] [info] [127.0.0.1][a9815d40][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-10 00:24:07.575] [remoteagent] [info] [127.0.0.1][c9d2fa8a][ManagementConnection] New connection established.
+[2021-09-10 00:24:07.713] [remoteagent] [error] [127.0.0.1][0cf140a2][ExtensionHostConnection] <157637> Extension Host Process had an error
+[2021-09-10 00:24:07.720] [remoteagent] [error] Error: write EPIPE
+    at ChildProcess.target._send (internal/child_process.js:832:20)
+    at ChildProcess.target.send (internal/child_process.js:703:19)
+    at o.shortenReconnectionGraceTimeIfNecessary (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:125:108434)
+    at /home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:137:2704
+    at E.fire (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:69:1712)
+    at fire (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:80:15806)
+    at s._receiveMessage (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:80:21131)
+    at /home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:80:17954
+    at E.fire (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:69:1712)
+    at u.acceptChunk (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:80:13167)
+    at /home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:80:12515
+    at E.fire (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:69:1712)
+    at /home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostAgent.js:125:101449
+    at afterWrite (internal/streams/writable.js:466:5)
+    at onwrite (internal/streams/writable.js:446:7)
+    at InflateRaw.afterTransform (internal/streams/transform.js:103:3)
+    at Zlib.processCallback (zlib.js:586:8)
+[2021-09-10 00:24:07.720] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-10 00:24:07.720] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-10 00:24:07.723] [remoteagent] [info] [127.0.0.1][558ee5a9][ExtensionHostConnection] New connection established.
+[2021-09-10 00:24:07.723] [remoteagent] [info] [127.0.0.1][0cf140a2][ExtensionHostConnection] <157637> Extension Host Process exited with code: 0, signal: null.
+[2021-09-10 00:24:07.732] [remoteagent] [info] [127.0.0.1][558ee5a9][ExtensionHostConnection] <157749> Launched Extension Host Process.
+[2021-09-10 00:24:57.226] [remoteagent] [info] [127.0.0.1][7195ed4c][ManagementConnection] New connection established.
+[2021-09-10 00:24:57.300] [remoteagent] [info] [127.0.0.1][051b5a08][ExtensionHostConnection] New connection established.
+[2021-09-10 00:24:57.347] [remoteagent] [info] [127.0.0.1][051b5a08][ExtensionHostConnection] <157960> Launched Extension Host Process.
+[2021-09-10 00:25:07.452] [remoteagent] [info] [127.0.0.1][7195ed4c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-10 00:25:08.506] [remoteagent] [info] [127.0.0.1][051b5a08][ExtensionHostConnection] <157960> Extension Host Process exited with code: 0, signal: null.
+[2021-09-10 00:25:08.506] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-10 00:59:30.881] [remoteagent] [info] [127.0.0.1][5a0a7fb8][ManagementConnection] New connection established.
+[2021-09-10 00:59:30.948] [remoteagent] [info] [127.0.0.1][e6c08678][ExtensionHostConnection] New connection established.
+[2021-09-10 00:59:30.958] [remoteagent] [info] [127.0.0.1][e6c08678][ExtensionHostConnection] <167014> Launched Extension Host Process.
+[2021-09-10 00:59:36.754] [remoteagent] [info] [127.0.0.1][5a0a7fb8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-10 00:59:38.556] [remoteagent] [info] [127.0.0.1][e6c08678][ExtensionHostConnection] <167014> Extension Host Process exited with code: 0, signal: null.
+[2021-09-10 01:10:00.864] [remoteagent] [info] [127.0.0.1][558ee5a9][ExtensionHostConnection] The client has reconnected.
+[2021-09-10 01:10:03.257] [remoteagent] [info] [127.0.0.1][c9d2fa8a][ManagementConnection] The client has reconnected.
+[2021-09-10 01:10:03.883] [remoteagent] [info] [127.0.0.1][558ee5a9][ExtensionHostConnection] The client has reconnected.
+[2021-09-10 01:10:19.600] [remoteagent] [info] [127.0.0.1][c9d2fa8a][ManagementConnection] The client has reconnected.
+[2021-09-10 01:10:58.976] [remoteagent] [info] [127.0.0.1][c9d2fa8a][ManagementConnection] The client has reconnected.
+[2021-09-10 01:11:04.077] [remoteagent] [info] [127.0.0.1][558ee5a9][ExtensionHostConnection] The client has reconnected.
+[2021-09-10 01:11:15.066] [remoteagent] [info] [127.0.0.1][c9d2fa8a][ManagementConnection] The client has reconnected.
+[2021-09-10 01:11:34.652] [remoteagent] [info] [127.0.0.1][c9d2fa8a][ManagementConnection] The client has reconnected.
+[2021-09-10 01:11:56.570] [remoteagent] [info] [127.0.0.1][c9d2fa8a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-09-10 01:16:16.109] [remoteagent] [info] [127.0.0.1][558ee5a9][ExtensionHostConnection] <157749> Extension Host Process exited with code: 0, signal: null.
+[2021-09-10 01:16:16.109] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-10 01:21:16.110] [remoteagent] [info] Last EH closed, shutting down

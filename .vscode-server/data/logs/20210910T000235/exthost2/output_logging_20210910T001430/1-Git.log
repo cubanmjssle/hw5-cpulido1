@@ -1,0 +1,65 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/chrispro-1/csc4350-lecture4-materials
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chrispro-1/csc4350-lecture4-materials/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :hw4.py
+> git ls-files --stage -- /home/chrispro-1/csc4350-lecture4-materials/hw4.py
+> git cat-file -s 47d37fe7e75629b095bb6a82e74c51150771a0f3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chrispro-1/csc4350-lecture4-materials/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/chrispro-1/csc4350-lecture4-materials/hw4.py
+> git cat-file -s 47d37fe7e75629b095bb6a82e74c51150771a0f3
+> git show --textconv :hw4.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chrispro-1/csc4350-lecture4-materials/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :hw4/hw4.py
+> git ls-files --stage -- /home/chrispro-1/csc4350-lecture4-materials/hw4/hw4.py
+> git check-ignore -v -z --stdin
+> git show --textconv :hw4.py
+> git ls-files --stage -- /home/chrispro-1/csc4350-lecture4-materials/hw4.py
+> git cat-file -s 47d37fe7e75629b095bb6a82e74c51150771a0f3
+> git show --textconv :hw4/hw4.py
+> git ls-files --stage -- /home/chrispro-1/csc4350-lecture4-materials/hw4/hw4.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chrispro-1/csc4350-lecture4-materials/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chrispro-1/csc4350-lecture4-materials/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :hw4.py
+> git ls-files --stage -- /home/chrispro-1/csc4350-lecture4-materials/hw4.py
+> git cat-file -s 47d37fe7e75629b095bb6a82e74c51150771a0f3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chrispro-1/csc4350-lecture4-materials/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

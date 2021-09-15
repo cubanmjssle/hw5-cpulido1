@@ -7,39 +7,80 @@
 * as described in the license https://aka.ms/vscode-remote/license
 *
 
-Extension host agent listening on 33767
+Extension host agent listening on 39155
 
-[01:07:31] Extension host agent started.
-[01:07:32] [127.0.0.1][6dc24f6b][ManagementConnection] New connection established.
-[01:07:32] [127.0.0.1][1861ce89][ExtensionHostConnection] New connection established.
-[01:07:32] [127.0.0.1][1861ce89][ExtensionHostConnection] <90705> Launched Extension Host Process.
-[01:07:35] Installing extension: ms-toolsai.jupyter
-[01:07:35] Installing extension: ms-toolsai.jupyter-keymap
-[01:07:35] Downloaded extension: ms-toolsai.jupyter-keymap /home/chrispro-1/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
-[01:07:36] Extracted extension to /home/chrispro-1/.vscode-server/extensions/.c79f1c8d-0854-4172-90a8-b5c09ba70e3b: ms-toolsai.jupyter-keymap
-[01:07:36] Renamed to /home/chrispro-1/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
-[01:07:36] Extracting completed. ms-toolsai.jupyter-keymap
-[01:07:37] Downloaded extension: ms-toolsai.jupyter /home/chrispro-1/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.8.2031190714
-[01:07:39] Extracted extension to /home/chrispro-1/.vscode-server/extensions/.d143df3f-9a78-4871-9bbd-dec135c74bef: ms-toolsai.jupyter
-[01:07:39] Renamed to /home/chrispro-1/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.2031190714
-[01:07:39] Extracting completed. ms-toolsai.jupyter
-[01:07:39] Extension installed successfully: ms-toolsai.jupyter-keymap
-[01:07:39] Extension installed successfully: ms-toolsai.jupyter
-[01:11:06] [127.0.0.1][6dc24f6b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[01:11:07] [127.0.0.1][1861ce89][ExtensionHostConnection] <90705> Extension Host Process exited with code: 0, signal: null.
+[00:05:52] Extension host agent started.
+[00:05:52] [127.0.0.1][c22f32b8][ManagementConnection] New connection established.
+[00:05:52] [127.0.0.1][6435badf][ExtensionHostConnection] New connection established.
+[00:05:52] [127.0.0.1][6435badf][ExtensionHostConnection] <1299> Launched Extension Host Process.
+[00:05:53] Deleted from disk ms-python.python /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484
+[00:11:16] [127.0.0.1][c22f32b8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:11:17] [127.0.0.1][6435badf][ExtensionHostConnection] <1299> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
-[01:11:07] Last EH closed, waiting before shutting down
+[00:11:17] Last EH closed, waiting before shutting down
+[00:11:17] [127.0.0.1][2be5b30c][ManagementConnection] New connection established.
+[00:11:17] [127.0.0.1][67decb5c][ExtensionHostConnection] New connection established.
+[00:11:17] [127.0.0.1][67decb5c][ExtensionHostConnection] <1392> Launched Extension Host Process.
+[00:12:06] [127.0.0.1][2be5b30c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:12:07] [127.0.0.1][67decb5c][ExtensionHostConnection] <1392> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[00:12:07] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[00:12:07] Last EH closed, waiting before shutting down
 Got delay-shutdown request while in shutdown timeout, delaying
-[01:11:13] Got delay-shutdown request while in shutdown timeout, delaying
+[00:12:36] Got delay-shutdown request while in shutdown timeout, delaying
 Cancelling previous shutdown timeout
-[01:11:13] Cancelling previous shutdown timeout
-[01:11:14] [127.0.0.1][1c6a6bba][ManagementConnection] New connection established.
-[01:11:14] [127.0.0.1][9bda1d28][ExtensionHostConnection] New connection established.
-[01:11:14] [127.0.0.1][9bda1d28][ExtensionHostConnection] <91234> Launched Extension Host Process.
-[01:11:23] [127.0.0.1][1c6a6bba][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[01:11:23] [127.0.0.1][dd3a8395][ManagementConnection] New connection established.
-[01:11:24] [127.0.0.1][23a99d24][ExtensionHostConnection] New connection established.
-[01:11:24] [127.0.0.1][23a99d24][ExtensionHostConnection] <91292> Launched Extension Host Process.
-[01:11:24] [127.0.0.1][9bda1d28][ExtensionHostConnection] <91234> Extension Host Process exited with code: 0, signal: null.
+[00:12:36] Cancelling previous shutdown timeout
+[00:12:36] [127.0.0.1][8e26532c][ManagementConnection] New connection established.
+[00:12:36] [127.0.0.1][ed29a7c6][ExtensionHostConnection] New connection established.
+[00:12:36] [127.0.0.1][ed29a7c6][ExtensionHostConnection] <1725> Launched Extension Host Process.
+[00:12:52] [127.0.0.1][8e26532c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:12:53] [127.0.0.1][ed29a7c6][ExtensionHostConnection] <1725> Extension Host Process exited with code: 0, signal: null.
 Cancelling previous shutdown timeout
-[01:11:24] Cancelling previous shutdown timeout
+[00:12:53] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[00:12:53] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[00:13:13] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[00:13:13] Cancelling previous shutdown timeout
+[00:13:13] [127.0.0.1][34906bc4][ManagementConnection] New connection established.
+[00:13:13] [127.0.0.1][35b93e1e][ExtensionHostConnection] New connection established.
+[00:13:13] [127.0.0.1][35b93e1e][ExtensionHostConnection] <2031> Launched Extension Host Process.
+[00:13:18] [127.0.0.1][34906bc4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:13:19] [127.0.0.1][35b93e1e][ExtensionHostConnection] <2031> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[00:13:19] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[00:13:19] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[00:13:39] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[00:13:39] Cancelling previous shutdown timeout
+[00:13:39] [127.0.0.1][9b47179e][ManagementConnection] New connection established.
+[00:13:39] [127.0.0.1][ba81c7fe][ExtensionHostConnection] New connection established.
+[00:13:39] [127.0.0.1][ba81c7fe][ExtensionHostConnection] <2179> Launched Extension Host Process.
+[00:13:50] [127.0.0.1][9b47179e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:13:51] [127.0.0.1][830cfc09][ManagementConnection] New connection established.
+[00:13:51] [127.0.0.1][7175294d][ExtensionHostConnection] New connection established.
+[00:13:51] [127.0.0.1][7175294d][ExtensionHostConnection] <2203> Launched Extension Host Process.
+[00:13:51] [127.0.0.1][ba81c7fe][ExtensionHostConnection] <2179> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[00:13:51] Cancelling previous shutdown timeout
+[00:57:33] [127.0.0.1][830cfc09][ManagementConnection] The client has reconnected.
+[00:57:33] [127.0.0.1][7175294d][ExtensionHostConnection] The client has reconnected.
+[01:01:45] [127.0.0.1][830cfc09][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[01:01:45] [127.0.0.1][830cfc09][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[01:01:45] [127.0.0.1][830cfc09][ManagementConnection] The client has reconnected.
+[01:02:19] [127.0.0.1][7175294d][ExtensionHostConnection] The client has reconnected.
+[01:11:33] [127.0.0.1][830cfc09][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[01:11:55] [127.0.0.1][830cfc09][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[01:11:55] [127.0.0.1][830cfc09][ManagementConnection] The client has reconnected.
+[01:11:55] [127.0.0.1][7175294d][ExtensionHostConnection] The client has reconnected.
+[02:58:24] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,220 @@
+[2021-09-12 20:47:00.016] [exthost] [info] extension host started
+[2021-09-12 20:47:00.058] [exthost] [info] Lock '/home/chrispro-1/.vscode-server/data/User/workspaceStorage/cc06f41ed4af50e90780b3afcd66a209/vscode.lock': Lock acquired.
+[2021-09-12 20:47:00.146] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-12 20:47:00.147] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension
+[2021-09-12 20:47:01.034] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-12 20:47:01.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension
+[2021-09-12 20:47:01.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-12 20:47:01.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/debug-auto-launch/dist/extension
+[2021-09-12 20:47:01.901] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-12 20:47:01.901] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/git/dist/main
+[2021-09-12 20:47:02.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-12 20:47:02.257] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/github/dist/extension.js
+[2021-09-12 20:47:02.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-12 20:47:02.607] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-12 20:47:02.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-12 20:47:02.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-12 20:47:02.654] [exthost] [info] eager extensions activated
+[2021-09-12 20:47:03.498] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-12 20:47:05.300] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-12 20:47:05.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-12 20:47:05.783] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-12 20:47:05.784] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-12 20:47:05.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-12 20:47:05.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-12 20:47:05.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-12 20:47:05.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/typescript-language-features/dist/extension
+[2021-09-12 20:47:06.002] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-12 20:47:06.010] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1/dist/extension.bundle.js
+[2021-09-12 20:47:34.638] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-09-12 20:47:34.640] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-09-12 20:48:44.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-09-12 20:48:44.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/debug-server-ready/dist/extension
+[2021-09-12 21:01:41.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-12 21:01:41.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-12 21:01:41.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-09-12 21:01:41.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/npm/dist/npmMain
+[2021-09-12 21:05:02.007] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:05:02.008] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:112947
+	at async g.provideHover (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:166317)
+[2021-09-12 21:05:03.074] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:05:03.074] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:112947
+	at async g.provideHover (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:166317)
+[2021-09-12 21:06:46.534] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:06:46.535] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:06:48.694] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:06:48.695] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:06:50.740] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:06:50.744] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:06:53.107] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:06:53.107] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:06:57.486] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:06:57.487] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:06:59.916] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:06:59.917] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:00.488] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:00.489] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:08.792] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:08.794] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:11.251] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:11.251] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:13.536] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:13.537] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:15.063] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:15.064] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:17.529] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:17.529] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:19.659] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:19.660] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:24.134] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:24.135] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:28.374] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:07:28.375] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:07:35.170] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-12 21:07:35.171] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-12 21:13:55.271] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:13:55.272] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-12 21:14:04.464] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-12 21:14:04.464] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30732)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:30681)
+	at new s (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:87:17480)
+	at H (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:59:137245)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1218897484/out/client/extension.js:9:117515
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)

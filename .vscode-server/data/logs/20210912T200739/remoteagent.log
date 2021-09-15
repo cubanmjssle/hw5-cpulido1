@@ -1,0 +1,55 @@
+[2021-09-12 20:07:39.760] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-12 20:07:39.760] [remoteagent] [info] Extension host agent started.
+[2021-09-12 20:07:40.216] [remoteagent] [info] [127.0.0.1][e4077e8e][ManagementConnection] New connection established.
+[2021-09-12 20:07:40.270] [remoteagent] [info] [127.0.0.1][80ba0840][ExtensionHostConnection] New connection established.
+[2021-09-12 20:07:40.273] [remoteagent] [info] [127.0.0.1][80ba0840][ExtensionHostConnection] <1286> Launched Extension Host Process.
+[2021-09-12 20:07:59.801] [remoteagent] [info] Uninstalling extension: snyk-security.snyk-vulnerability-scanner
+[2021-09-12 20:08:00.139] [remoteagent] [info] Successfully uninstalled extension: snyk-security.snyk-vulnerability-scanner
+[2021-09-12 20:08:01.491] [remoteagent] [info] [127.0.0.1][e4077e8e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-12 20:08:02.391] [remoteagent] [info] [127.0.0.1][3795107e][ManagementConnection] New connection established.
+[2021-09-12 20:08:02.464] [remoteagent] [info] [127.0.0.1][38ad0c94][ExtensionHostConnection] New connection established.
+[2021-09-12 20:08:02.469] [remoteagent] [info] [127.0.0.1][38ad0c94][ExtensionHostConnection] <1305> Launched Extension Host Process.
+[2021-09-12 20:08:02.575] [remoteagent] [info] [127.0.0.1][80ba0840][ExtensionHostConnection] <1286> Extension Host Process exited with code: 0, signal: null.
+[2021-09-12 20:14:23.691] [remoteagent] [info] [127.0.0.1][3795107e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-12 20:14:24.575] [remoteagent] [info] [127.0.0.1][78e6cf04][ManagementConnection] New connection established.
+[2021-09-12 20:14:24.645] [remoteagent] [info] [127.0.0.1][5226bc9f][ExtensionHostConnection] New connection established.
+[2021-09-12 20:14:24.658] [remoteagent] [info] [127.0.0.1][5226bc9f][ExtensionHostConnection] <2571> Launched Extension Host Process.
+[2021-09-12 20:14:24.776] [remoteagent] [info] [127.0.0.1][38ad0c94][ExtensionHostConnection] <1305> Extension Host Process exited with code: 0, signal: null.
+[2021-09-12 20:45:03.275] [remoteagent] [info] [127.0.0.1][78e6cf04][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-12 20:45:04.328] [remoteagent] [info] [127.0.0.1][5226bc9f][ExtensionHostConnection] <2571> Extension Host Process exited with code: 0, signal: null.
+[2021-09-12 20:45:04.329] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-12 20:45:28.097] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-09-12 20:45:28.097] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-12 20:45:28.287] [remoteagent] [info] [127.0.0.1][d6e637ef][ManagementConnection] New connection established.
+[2021-09-12 20:45:28.381] [remoteagent] [info] [127.0.0.1][c4a6b73e][ExtensionHostConnection] New connection established.
+[2021-09-12 20:45:28.387] [remoteagent] [info] [127.0.0.1][c4a6b73e][ExtensionHostConnection] <8420> Launched Extension Host Process.
+[2021-09-12 20:45:57.545] [remoteagent] [info] [127.0.0.1][d6e637ef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-12 20:45:58.642] [remoteagent] [info] [127.0.0.1][c4a6b73e][ExtensionHostConnection] <8420> Extension Host Process exited with code: 0, signal: null.
+[2021-09-12 20:45:58.642] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-12 20:45:58.642] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-12 20:46:58.387] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-09-12 20:46:58.387] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-12 20:46:58.587] [remoteagent] [info] [127.0.0.1][f5de3437][ManagementConnection] New connection established.
+[2021-09-12 20:46:58.660] [remoteagent] [info] [127.0.0.1][9f46fc46][ExtensionHostConnection] New connection established.
+[2021-09-12 20:46:58.667] [remoteagent] [info] [127.0.0.1][9f46fc46][ExtensionHostConnection] <8689> Launched Extension Host Process.
+[2021-09-12 20:51:58.392] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-09-12 21:24:26.377] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-12 21:25:28.739] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-12 21:25:34.281] [remoteagent] [info] [127.0.0.1][f5de3437][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-09-12 21:25:35.537] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-12 21:25:43.928] [remoteagent] [info] [127.0.0.1][f5de3437][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-09-12 21:25:43.931] [remoteagent] [info] [127.0.0.1][b72eedb4][ManagementConnection] New connection established.
+[2021-09-12 21:25:44.009] [remoteagent] [info] [127.0.0.1][e2b06bbe][ExtensionHostConnection] New connection established.
+[2021-09-12 21:25:44.025] [remoteagent] [info] [127.0.0.1][e2b06bbe][ExtensionHostConnection] <16328> Launched Extension Host Process.
+[2021-09-12 21:26:07.342] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-12 21:26:36.383] [remoteagent] [info] [127.0.0.1][b72eedb4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-09-12 21:26:37.437] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

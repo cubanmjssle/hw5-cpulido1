@@ -1,0 +1,66 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/chrispro-1
+> git status -z -u
+> git show --textconv :main.py
+> git ls-files --stage -- /home/chrispro-1/main.py
+> git check-ignore -v -z --stdin
+> git show --textconv :main.py
+> git ls-files --stage -- /home/chrispro-1/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git check-ignore -v -z --stdin
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/chrispro-1/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/chrispro-1/hw5/main.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/chrispro-1/hw5/main.py
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/chrispro-1/hw5/main.py
+fatal: your current branch 'master' does not have any commits yet
+Opening repository for path='/home/chrispro-1' failed; ex=Canceled: Canceled

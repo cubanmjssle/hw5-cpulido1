@@ -2,3 +2,4 @@
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 update.code.visualstudio.com	0	0	1630976848	31536000
+commons.wikimedia.org	0	1	1631037733	106384710

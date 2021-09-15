@@ -650,3 +650,6 @@
 	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:152605)
 	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:112155
 	at async $.resolveCompletionItem (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:177637)
+[2021-09-15 03:21:17.175] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-09-15 03:21:17.177] [exthost] [info] Lock '/home/chrispro-1/.vscode-server/data/User/workspaceStorage/7d3091d4a6230156db87efb0911446d9/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-15 03:21:18.252] [exthost] [info] exiting with code 0

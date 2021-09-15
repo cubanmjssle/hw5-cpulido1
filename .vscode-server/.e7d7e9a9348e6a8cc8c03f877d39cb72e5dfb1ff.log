@@ -84,3 +84,14 @@ Error: Unexpected SIGPIPE
 [01:11:55] [127.0.0.1][830cfc09][ManagementConnection] The client has reconnected.
 [01:11:55] [127.0.0.1][7175294d][ExtensionHostConnection] The client has reconnected.
 [02:58:24] No ptyHost heartbeat after 6 seconds
+[03:21:17] [127.0.0.1][830cfc09][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[03:21:18] [127.0.0.1][7175294d][ExtensionHostConnection] <2203> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[03:21:18] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[03:21:31] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[03:21:31] Cancelling previous shutdown timeout
+[03:21:31] [127.0.0.1][aa94f1f9][ManagementConnection] New connection established.
+[03:21:31] [127.0.0.1][3ec5ed0f][ExtensionHostConnection] New connection established.
+[03:21:31] [127.0.0.1][3ec5ed0f][ExtensionHostConnection] <124120> Launched Extension Host Process.

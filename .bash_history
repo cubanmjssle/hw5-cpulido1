@@ -231,3 +231,69 @@ heroku create
 pip install requests
 heroku login
 pip install python-dotenv
+cd hw6
+touch hw6.py
+code hw6.py
+pip install requests
+python3 hw6.py
+sudo apt install libwww-perl
+GET https://api.spotify.com/v1/artists/{id}/albums
+POST https://accounts.spotify.com/api/token
+GET https://api.spotify.com/v1/browse/new-releases
+curl -H "Authorization: Bearer NgCXRKc...MzYjw" https://api.spotify.com/v1/tracks/2TpxZ7JUBn3uw46aR7qd6
+curl -H "Authorization: Bearer NgCXRKc...MzYjw" https://api.spotify.com/v1/tracks/2TpxZ7JUBn3uw46aR7q
+curl -X "POST" -H "Authorization: Basic ZjM4ZjAw...WY0MzE=" -d grant_type=client_credentials https://accounts.spotify.com/api/token
+curl
+https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6/albums?album_type=SINGLE&offset=20&limit=10
+git init
+git commit -m "first commit"
+git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
+git ingii
+git init
+git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
+git add .
+git init
+git add
+git add .
+git commit -m "first commit"
+git push -u origin main
+git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
+git init
+git add .
+git commit -m "first commit"
+git add .
+git commit -m "Sum of All my attempts"
+git add .
+git commit -m "1"
+git config --global user.email "cpulido1@student.gsu.edu"
+git add .
+git commit -m "1"
+git push
+git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
+echo "# hw6-cpulido1"
+git init
+git commit -m "first commit"
+git add .
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+git init
+git add.
+git add .
+git commit -m "final atttempt"
+git push
+git push -u origin main
+git@github.com:cubanmjssle/hw6-cpulido1.git
+git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
+git branch -M main
+git push
+git init
+echo "# hw6-cpulido1"
+git init
+git commit -m "first commit"
+git add .
+git branch -M main
+git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
+git push -u origin main
+git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
+/bin/python3 /home/chrispro-1/hw6/hw6.py

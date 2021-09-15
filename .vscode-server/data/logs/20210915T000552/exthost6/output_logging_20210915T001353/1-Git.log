@@ -100,3 +100,33 @@ Open repository: /home/chrispro-1
 > git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
 > git cat-file -s 47cb22312ea5f1b398ec7c08bbfcbf8ac689bedc
 > git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py
+> git ls-files --stage -- /home/chrispro-1/hw6/hw6.py
+> git cat-file -s f542a5cd0ceaea6f01f0fbcbec7c1aa697927bf3
+> git show --textconv :hw6/hw6.py

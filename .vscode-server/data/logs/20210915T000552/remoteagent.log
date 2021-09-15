@@ -63,3 +63,11 @@
 [2021-09-15 01:11:55.125] [remoteagent] [info] [127.0.0.1][830cfc09][ManagementConnection] The client has reconnected.
 [2021-09-15 01:11:55.219] [remoteagent] [info] [127.0.0.1][7175294d][ExtensionHostConnection] The client has reconnected.
 [2021-09-15 02:58:24.789] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-15 03:21:17.196] [remoteagent] [info] [127.0.0.1][830cfc09][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-15 03:21:18.273] [remoteagent] [info] [127.0.0.1][7175294d][ExtensionHostConnection] <2203> Extension Host Process exited with code: 0, signal: null.
+[2021-09-15 03:21:18.273] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-15 03:21:31.132] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-09-15 03:21:31.132] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-15 03:21:31.343] [remoteagent] [info] [127.0.0.1][aa94f1f9][ManagementConnection] New connection established.
+[2021-09-15 03:21:31.496] [remoteagent] [info] [127.0.0.1][3ec5ed0f][ExtensionHostConnection] New connection established.
+[2021-09-15 03:21:31.503] [remoteagent] [info] [127.0.0.1][3ec5ed0f][ExtensionHostConnection] <124120> Launched Extension Host Process.

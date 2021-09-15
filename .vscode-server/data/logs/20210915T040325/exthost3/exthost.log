@@ -23,3 +23,25 @@
 [2021-09-15 04:05:44.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1/dist/extension.bundle.js
 [2021-09-15 04:05:45.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
 [2021-09-15 04:05:45.280] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/debug-server-ready/dist/extension
+[2021-09-15 04:07:26.052] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-15 04:07:26.053] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:112947
+	at async g.provideHover (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:166317)
+[2021-09-15 04:11:39.812] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/hw5/__pycache__' is in submodule 'hw5'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:11:39.812] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/hw5/__pycache__' is in submodule 'hw5'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:11:39.812] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/hw5/__pycache__' is in submodule 'hw5'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:11:39.812] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/hw5/__pycache__' is in submodule 'hw5'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:12:18.269] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-15 04:12:18.270] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:152754)
+	at _.handleFailedRequest (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:152605)
+	at /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:117593
+	at async l.provideDocumentSymbols (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:163113)
+[2021-09-15 04:12:26.970] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/lect6-demo-heroku/static' is in submodule 'lect6-demo-heroku'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:12:26.970] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/lect6-demo-heroku/static' is in submodule 'lect6-demo-heroku'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:12:26.970] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/lect6-demo-heroku/static' is in submodule 'lect6-demo-heroku'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:12:26.970] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/lect6-demo-heroku/static' is in submodule 'lect6-demo-heroku'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:12:26.970] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/lect6-demo-heroku/static' is in submodule 'lect6-demo-heroku'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-09-15 04:12:26.970] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/chrispro-1/lect6-demo-heroku/static' is in submodule 'lect6-demo-heroku'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

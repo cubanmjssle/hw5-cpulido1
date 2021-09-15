@@ -46,3 +46,4 @@
 [2021-09-15 04:05:38.296] [remoteagent] [info] [127.0.0.1][252bd5c7][ManagementConnection] New connection established.
 [2021-09-15 04:05:38.390] [remoteagent] [info] [127.0.0.1][32508915][ExtensionHostConnection] New connection established.
 [2021-09-15 04:05:38.396] [remoteagent] [info] [127.0.0.1][32508915][ExtensionHostConnection] <2013> Launched Extension Host Process.
+[2021-09-15 04:10:38.095] [remoteagent] [info] New EH opened, aborting shutdown

@@ -1,0 +1,15 @@
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-09-02 18:02:23: ZMQ install verified.
+Info 2021-09-02 18:02:23: id is f0c6f95b-3e85-4949-ba84-b5c7397c545f
+Info 2021-09-02 19:22:53: Shutting down notebooks for ae8ab096-7bf8-4c5b-ad83-84147439e78e
+Info 2021-09-02 19:22:53: Disposing HostJupyterExecution e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Disposing super HostJupyterExecution e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Disposing HostJupyterExecution e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Finished disposing HostJupyterExecution  e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Disposing HostJupyterExecution e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Finished disposing HostJupyterExecution  e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Getting live share API during dispose HostJupyterExecution e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Detaching HostJupyterExecution e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Cleaning up server cache e717920f-4324-44ac-be22-1f088d0ca628
+Info 2021-09-02 19:22:53: Finished disposing HostJupyterExecution  e717920f-4324-44ac-be22-1f088d0ca628

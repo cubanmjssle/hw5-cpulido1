@@ -1,0 +1,45 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 33767
+
+[01:07:31] Extension host agent started.
+[01:07:32] [127.0.0.1][6dc24f6b][ManagementConnection] New connection established.
+[01:07:32] [127.0.0.1][1861ce89][ExtensionHostConnection] New connection established.
+[01:07:32] [127.0.0.1][1861ce89][ExtensionHostConnection] <90705> Launched Extension Host Process.
+[01:07:35] Installing extension: ms-toolsai.jupyter
+[01:07:35] Installing extension: ms-toolsai.jupyter-keymap
+[01:07:35] Downloaded extension: ms-toolsai.jupyter-keymap /home/chrispro-1/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[01:07:36] Extracted extension to /home/chrispro-1/.vscode-server/extensions/.c79f1c8d-0854-4172-90a8-b5c09ba70e3b: ms-toolsai.jupyter-keymap
+[01:07:36] Renamed to /home/chrispro-1/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[01:07:36] Extracting completed. ms-toolsai.jupyter-keymap
+[01:07:37] Downloaded extension: ms-toolsai.jupyter /home/chrispro-1/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.8.2031190714
+[01:07:39] Extracted extension to /home/chrispro-1/.vscode-server/extensions/.d143df3f-9a78-4871-9bbd-dec135c74bef: ms-toolsai.jupyter
+[01:07:39] Renamed to /home/chrispro-1/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.2031190714
+[01:07:39] Extracting completed. ms-toolsai.jupyter
+[01:07:39] Extension installed successfully: ms-toolsai.jupyter-keymap
+[01:07:39] Extension installed successfully: ms-toolsai.jupyter
+[01:11:06] [127.0.0.1][6dc24f6b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:11:07] [127.0.0.1][1861ce89][ExtensionHostConnection] <90705> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[01:11:07] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[01:11:13] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[01:11:13] Cancelling previous shutdown timeout
+[01:11:14] [127.0.0.1][1c6a6bba][ManagementConnection] New connection established.
+[01:11:14] [127.0.0.1][9bda1d28][ExtensionHostConnection] New connection established.
+[01:11:14] [127.0.0.1][9bda1d28][ExtensionHostConnection] <91234> Launched Extension Host Process.
+[01:11:23] [127.0.0.1][1c6a6bba][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:11:23] [127.0.0.1][dd3a8395][ManagementConnection] New connection established.
+[01:11:24] [127.0.0.1][23a99d24][ExtensionHostConnection] New connection established.
+[01:11:24] [127.0.0.1][23a99d24][ExtensionHostConnection] <91292> Launched Extension Host Process.
+[01:11:24] [127.0.0.1][9bda1d28][ExtensionHostConnection] <91234> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[01:11:24] Cancelling previous shutdown timeout

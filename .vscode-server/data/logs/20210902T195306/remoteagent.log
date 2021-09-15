@@ -1,0 +1,15 @@
+[2021-09-02 19:53:06.878] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-02 19:53:06.878] [remoteagent] [info] Extension host agent started.
+[2021-09-02 19:53:07.321] [remoteagent] [error] [127.0.0.1][845f5bf2][ManagementConnection] Unknown reconnection token.
+[2021-09-02 19:53:07.804] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/chrispro-1/.vscode-server/extensions/ms-python.vscode-pylance-2021.8.3
+[2021-09-02 19:53:07.810] [remoteagent] [info] Deleted from disk ms-python.python /home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.8.1159798656
+[2021-09-07 01:07:37.011] [remoteagent] [info] Detected extension installed from another source ms-toolsai.jupyter-keymap

@@ -1,0 +1,15 @@
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-09-02 17:33:39: ZMQ install verified.
+Info 2021-09-02 17:33:40: id is 5d52eed8-65fb-4f67-843d-5713ff0d88f3
+Info 2021-09-02 17:36:09: Shutting down notebooks for 2106e4ee-21b4-4152-a810-3f980b145a1f
+Info 2021-09-02 17:36:09: Disposing HostJupyterExecution 1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Disposing super HostJupyterExecution 1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Disposing HostJupyterExecution 1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Finished disposing HostJupyterExecution  1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Disposing HostJupyterExecution 1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Finished disposing HostJupyterExecution  1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Getting live share API during dispose HostJupyterExecution 1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Detaching HostJupyterExecution 1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Cleaning up server cache 1c31e3db-cd8a-485d-bd81-73cacd546330
+Info 2021-09-02 17:36:09: Finished disposing HostJupyterExecution  1c31e3db-cd8a-485d-bd81-73cacd546330

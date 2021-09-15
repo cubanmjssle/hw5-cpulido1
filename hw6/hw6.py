@@ -2,8 +2,8 @@ import requests
 import base64
 import datetime
 
-client_id = "11165d2d66144be9a40cb31c2e813dd7"
-client_secret = "2ef4f2dbb76643728422ee37467243ea"
+client_id = ""
+client_secret = ""
 
 class SpotifyAPI(object):
         access_token = None

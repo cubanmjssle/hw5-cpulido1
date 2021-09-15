@@ -23,3 +23,6 @@
 [2021-09-15 03:21:41.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1/dist/extension.bundle.js
 [2021-09-15 03:21:41.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
 [2021-09-15 03:21:41.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/extensions/debug-server-ready/dist/extension
+[2021-09-15 03:22:58.647] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-09-15 03:22:58.648] [exthost] [info] Lock '/home/chrispro-1/.vscode-server/data/User/workspaceStorage/7d3091d4a6230156db87efb0911446d9/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-15 03:22:59.705] [exthost] [info] exiting with code 0

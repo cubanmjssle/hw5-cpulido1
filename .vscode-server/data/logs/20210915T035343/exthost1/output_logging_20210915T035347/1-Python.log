@@ -11,7 +11,7 @@ User belongs to experiment group 'pythonRefreshTestsButtonDisplayed'
 User belongs to experiment group 'pythonRememberDebugConfigcf'
 Python interpreter path: /bin/python3
 Starting Pylance language server.
-Error 2021-09-15 03:21:42: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+7b22686f73744e616d65223a2235322e3138382e352e323437222c2275736572223a22636872697370726f2d31227d/home/chrispro-1/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file 'vscode-remote://ssh-remote+7b22686f73744e616d65223a2235322e3138382e352e323437222c2275736572223a22636872697370726f2d31227d/home/chrispro-1/.config/Code/User/settings.json')
+Error 2021-09-15 03:53:50: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+7b22686f73744e616d65223a2235322e3138382e352e323437222c2275736572223a22636872697370726f2d31227d/home/chrispro-1/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file 'vscode-remote://ssh-remote+7b22686f73744e616d65223a2235322e3138382e352e323437222c2275736572223a22636872697370726f2d31227d/home/chrispro-1/.config/Code/User/settings.json')
 	at _handleError (/home/chrispro-1/.vscode-server/bin/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/out/vs/server/remoteExtensionHostProcess.js:94:160087)
 	at async y.readText (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:314351)
 	at async p.doesFileNeedToBeFixed (/home/chrispro-1/.vscode-server/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:823969)
@@ -22,5 +22,3 @@ Error 2021-09-15 03:21:42: Failed to check if file needs to be fixed [EntryNotFo
   code: 'FileNotFound'
 }
 > conda --version
-Error 2021-09-15 03:22:58: Error while running worker[Worker 2]. undefined
-Error 2021-09-15 03:22:58: Error while running worker[Worker 1]. undefined

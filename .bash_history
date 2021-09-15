@@ -297,3 +297,12 @@ git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
 git push -u origin main
 git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
 /bin/python3 /home/chrispro-1/hw6/hw6.py
+echo "# hw6-cpulido1"
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cubanmjssle/hw6-cpulido1.git
+git push -u origin main
+git init
+python3 hw6.py

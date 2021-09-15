@@ -33256,3 +33256,267 @@ USAGE: heroku info my-app
     at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
     at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:23 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:26 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:29 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:32 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:35 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:38 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:41 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:44 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:47 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:50 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:53 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:56 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:08:59 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:02 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:05 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:08 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:11 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:14 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:17 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:21 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:24 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:27 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:30 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:33 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:36 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:39 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:42 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:45 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:48 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:51 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:54 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:09:57 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/09/15 03:10:00 Error: No app specified.
+USAGE: heroku info my-app
+    at run (/snap/heroku/4076/node_modules/@heroku-cli/plugin-apps-v5/src/commands/apps/info.js:57:19)
+    at run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:157:15)
+    at Object.run (/snap/heroku/4076/node_modules/heroku-cli-util/lib/command.js:169:12)
+    at V5.run (/snap/heroku/4076/node_modules/@oclif/plugin-legacy/lib/index.js:145:26)
+    at V5._run (/snap/heroku/4076/node_modules/@oclif/command/lib/command.js:44:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
